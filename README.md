@@ -34,7 +34,7 @@ I'm a passionate Backend Software Engineer based in Lagos, Nigeria with expertis
 
 ## 🚀 Professional Experience
 
-Throughout my 6-year journey in software engineering, I've delivered impactful solutions across financial technology, tourism, and e-commerce domains:
+Throughout  journey in software engineering, I've delivered impactful solutions across financial technology, tourism, and e-commerce domains:
 
 **Financial Systems Architecture** 💰  
 Engineered high-performance backend systems for financial transactions using Go and Java, implementing ISO8583-compliant processing with secure TCP/TLS connections that handle millions in transaction volume.
