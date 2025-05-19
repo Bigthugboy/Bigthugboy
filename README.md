@@ -34,7 +34,7 @@ I'm a passionate Backend Software Engineer based in Lagos, Nigeria with expertis
 
 ## 🚀 Professional Experience
 
-Throughout  journey in software engineering, I've delivered impactful solutions across financial technology, tourism, and e-commerce domains:
+Throughout my journey in software engineering, I've delivered impactful solutions across financial technology, tourism, and e-commerce domains:
 
 **Financial Systems Architecture** 💰  
 Engineered high-performance backend systems for financial transactions using Go and Java, implementing ISO8583-compliant processing with secure TCP/TLS connections that handle millions in transaction volume.
@@ -85,7 +85,7 @@ A scalable e-commerce platform using Spring Boot and Spring Cloud, implementing 
 
 - Designed and implemented a secure bulk payment processing system that handled over 1 million transactions monthly
 - Reduced API response times by 40% through database query optimization and system refinements
-- Integrated multiple payment gateways (Paystack, Flutterwave) with 99.9% transaction success rate
+- Integrated multiple payment gateways with 99.9% transaction success rate
 - Developed ISO8583-compliant backend systems for secure financial transactions
 - Led the implementation of microservices architecture that improved system scalability and reliability
 
