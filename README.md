@@ -6,7 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Bigthugboy?style=for-the-badge&logo=github)](https://github.com/Bigthugboy?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Bigthugboy?style=for-the-badge&logo=github)](https://github.com/Bigthugboy?tab=stars)
 
-I'm a passionate software engineer based in Lagos, Nigeria with over 5 years of professional experience building robust and scalable applications. My expertise spans across full-stack development with a strong focus on Java, Spring Boot, and modern JavaScript frameworks.
+Backend Software Engineer with expertise in Go (Gin) and Java (Spring Boot), specializing in scalable microservices, secure payment processing, and distributed systems. Proficient in gRPC, Apache Pulsar, PostgreSQL, MongoDB, and hexagonal architecture. Passionate about designing high-performance, maintainable backend systems for financial services and enterprise applications, while leveraging research to drive innovative solutions to new and existing challenges.
+
 
 ## 💻 Tech Stack
 
