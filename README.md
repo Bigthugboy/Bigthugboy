@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Akintola Damilola Ayodeji
 
-## Senior Software Engineer with 6+ Years Experience
+## Senior Software Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damilola-akintola-663a62249/)
 [![GitHub followers](https://img.shields.io/github/followers/Bigthugboy?style=for-the-badge&logo=github)](https://github.com/Bigthugboy?tab=followers)
