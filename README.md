@@ -53,28 +53,6 @@ Led system-wide performance improvements through database query optimization and
 
 ## 🔥 Featured Projects
 
-### Financial Processing Engine
-<img align="right" width="100" height="100" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-
-A high-throughput payment processing system handling secure financial transactions with ISO8583 compliance, enabling real-time fund transfers and bulk payment processing for enterprise clients.
-
-**Technologies:** Go, Gin, Apache Pulsar, PostgreSQL, OAuth2, Keycloak
-
-### Tourism Booking Platform - Travas
-<img align="right" width="100" height="100" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-
-A comprehensive tourism system with real-time availability checking, secure payment processing, and optimized booking flows that improved conversion rates by 35%.
-
-**Technologies:** Go, Gin, MongoDB, Paystack, Flutterwave
-
-### E-commerce Microservices
-<img align="right" width="100" height="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
-A scalable e-commerce platform using Spring Boot and Spring Cloud, implementing robust security measures and third-party API integrations that supported 10,000+ concurrent users.
-
-**Technologies:** Java, Spring Boot, Spring Cloud, Spring Security, MySQL
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bigthugboy&show_icons=true&theme=radical" alt="GitHub Stats" />
