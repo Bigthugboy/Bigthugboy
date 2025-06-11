@@ -54,11 +54,6 @@ Led system-wide performance improvements through database query optimization and
 ## 🔥 Featured Projects
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bigthugboy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigthugboy&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🏆 Achievements
 
 - Designed and implemented a secure bulk payment processing system that handled over 1 million transactions monthly
