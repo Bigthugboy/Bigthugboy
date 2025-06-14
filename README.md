@@ -51,7 +51,7 @@ Developed secure payment gateways integrating Paystack and Flutterwave, optimizi
 **Performance Optimization** ⚡  
 Led system-wide performance improvements through database query optimization and API refinement, reducing response times by 40% and enhancing overall user experience.
 
-## 🔥 Featured Projects
+
 
 
 ## 🏆 Achievements
